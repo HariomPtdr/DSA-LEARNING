@@ -25,4 +25,13 @@ void print(int n){
 
 In both of the examples  we are changing a single line but the out put is changing whole differently
 
+//we take some as the result of that decision the input get automatically smaller
+// recursion is input ko chota banana ❌
+// we take some as the result of that decision the input get automatically smaller ✅
+//for example : ->
+// Getting a Job is a big problem and for this we take some decision
+//d1 is take a good college -> if this happen problem get smaller 
+// d2 do coding and leran recursion and DSA - > problem get more smaller 
+// smaller problem solution we already know and the bigger problem can easily solved 
+
 
